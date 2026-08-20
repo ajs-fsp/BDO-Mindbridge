@@ -28,9 +28,6 @@
                 <mxCell id="5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" parent="8" vertex="1">
                     <mxGeometry x="192.96346153846142" y="11" width="62.8" height="68" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" parent="1" vertex="1">
-                    <mxGeometry x="699" y="359.5" width="68" height="60" as="geometry"/>
-                </mxCell>
                 <mxCell id="16" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="209" y="110" width="446.40000000000003" height="200" as="geometry"/>
                 </mxCell>
@@ -46,7 +43,7 @@
                 <mxCell id="18" value="Transform" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="16" vertex="1">
                     <mxGeometry x="170" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="Load" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="16" vertex="1">
+                <mxCell id="19" value="Load&lt;br&gt;(Store)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="16" vertex="1">
                     <mxGeometry x="310" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -111,6 +108,9 @@
                 </mxCell>
                 <mxCell id="36" value="Validis API" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/web/API_Center.svg;container=0;" parent="1" vertex="1">
                     <mxGeometry x="96" y="362.375" width="55.25" height="55.25" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="LOAD" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" parent="1" vertex="1">
+                    <mxGeometry x="699" y="359.5" width="68" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
