@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="TvuYHjeaM-1KlrzzPbB7" name="MindBridge Manual Ingestion">
-        <mxGraphModel dx="1163" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1422" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="48" value="SOLUTION DOMAIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;dashed=1;fillStyle=cross-hatch;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+                <mxCell id="48" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;SOLUTION DOMAIN&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;dashed=1;fillStyle=cross-hatch;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
                     <mxGeometry x="177" y="20" width="750" height="770" as="geometry"/>
                 </mxCell>
                 <mxCell id="49" value="SECURITY&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; BOUNDARY" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#FFFFFF;gradientColor=#F8CECC;strokeColor=#b85450;textDirection=vertical-lr;" parent="1" vertex="1">
@@ -16,7 +16,7 @@
                 <mxCell id="8" value="" style="group;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="209" y="470" width="446.4" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Storage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFAF9;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="8" vertex="1">
+                <mxCell id="6" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Storage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFAF9;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="8" vertex="1">
                     <mxGeometry width="446.40000000000003" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="8" vertex="1">
@@ -31,7 +31,7 @@
                 <mxCell id="16" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="209" y="110" width="446.40000000000003" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="ADF Data Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDFAFF;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="16" vertex="1">
+                <mxCell id="12" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ADF Data Pipeline&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDFAFF;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="16" vertex="1">
                     <mxGeometry y="30" width="446.40000000000003" height="170" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" parent="16" vertex="1">
